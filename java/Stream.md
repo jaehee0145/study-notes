@@ -39,3 +39,5 @@ Arrays.stream(dArray); // 배열로 스트림 생성
 Stream<Integer> str = Stream.of(1,2); // 직접 생성
 ```
 
+
+
